@@ -9,5 +9,7 @@ Waveform: Carries multifunctional information
     * Intensity
     * Timbre
 
+Pitch: Perception of frequency
+
 
 
